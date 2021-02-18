@@ -1,0 +1,7 @@
+User story
+
+en tant que : développeur itinérant
+
+je voudrais : faire un repository où ne sont suivi que les fichiers .ini
+
+pour pouvoir : pour avoir le même environement de développement sur toutes mes machines
