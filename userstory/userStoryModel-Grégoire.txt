@@ -7,3 +7,6 @@ je voudrais :comprendre comment faire un rebase propre
 pour pouvoir : avoir un historique de commit propre lorsque je transmet mon projet a quelqu'un d'autre
 
 test
+
+
+nouvelle modif v2
