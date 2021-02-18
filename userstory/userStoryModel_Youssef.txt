@@ -1,0 +1,7 @@
+User story
+
+en tant que : junior devops
+
+je voudrais : apprendre les bonne pratique sur les branche et les tags
+
+pour pouvoir : créer des projets professionnel
