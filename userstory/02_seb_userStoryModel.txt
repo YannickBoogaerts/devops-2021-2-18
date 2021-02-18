@@ -1,0 +1,7 @@
+User story
+
+en tant que : seb_le_nooby
+
+je voudrais : apprendre les bases de git
+
+pour pouvoir : travailler
