@@ -1,0 +1,7 @@
+User story
+
+en tant que : développeur itinérant
+
+je voudrais : pouvoir récupérer la configuration de tout mes outils à distance
+
+pour pouvoir : avoir le même environement de développement sur toutes mes machines
