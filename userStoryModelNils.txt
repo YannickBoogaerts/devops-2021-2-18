@@ -1,0 +1,7 @@
+User story
+
+en tant que :Nils	
+
+je voudrais :maitriser git
+
+pour pouvoir : être plus polyvalent
