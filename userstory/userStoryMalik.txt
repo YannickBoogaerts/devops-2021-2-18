@@ -1,0 +1,7 @@
+User story
+
+en tant que : utilisateur Git/Github
+
+je voudrais : faire un rebase
+
+pour pouvoir : pour comprendre ! 
