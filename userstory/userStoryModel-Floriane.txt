@@ -1,0 +1,7 @@
+User story
+
+en tant que : Floriane
+
+je voudrais : Corriger tous les codes des autres personnes. 
+
+pour pouvoir : Avancer dans le projet plus rapidement.
