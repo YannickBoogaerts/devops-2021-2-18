@@ -1,0 +1,7 @@
+User story
+
+en tant que : seb
+
+je voudrais : utiliser git
+
+pour pouvoir : faire avancer un projet en équipe
