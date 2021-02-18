@@ -4,4 +4,4 @@ en tant que :Nils
 
 je voudrais :maitriser git
 
-pour pouvoir : etre plus polyvalent
+pour pouvoir : être plus polyvalent
