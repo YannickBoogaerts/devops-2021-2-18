@@ -1,7 +1,0 @@
-User story
-
-en tant que :
-
-je voudrais :
-
-pour pouvoir :
