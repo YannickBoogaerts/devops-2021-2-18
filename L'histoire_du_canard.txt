@@ -1,0 +1,7 @@
+User story
+
+en tant que : Matthias dit Big Duck
+
+je voudrais : utiliser git
+
+pour pouvoir : comprendre et m'en sortir car je me sens un peu larguer 
