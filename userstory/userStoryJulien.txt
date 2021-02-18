@@ -2,6 +2,6 @@ User story
 
 en tant que : développeur itinérant
 
-je voudrais : pouvoir récupérer la configuration de tout mes outils à distance
+je voudrais : faire un repository où ne sont suivi que les fichiers .ini
 
-pour pouvoir : avoir le même environement de développement sur toutes mes machines
+pour pouvoir : pour avoir le même environement de développement sur toutes mes machines
