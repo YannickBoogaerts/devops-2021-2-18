@@ -1,0 +1,7 @@
+User story
+
+en tant que : future DevOps
+
+je voudrais : mieux comprendre le fonctonneemnt de git
+
+pour pouvoir : comprendre comment pourais se derouer l'évolution d un projet d'un mon futur environement de travail.
