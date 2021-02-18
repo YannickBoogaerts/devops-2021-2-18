@@ -1,6 +1,6 @@
 User story
 
-en tant que : Stagiaire
+en tant que : Stagiaire 
 
 je voudrais : Voir + de Dev
 
