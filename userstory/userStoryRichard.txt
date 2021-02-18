@@ -1,7 +1,7 @@
 User story
 
-en tant que :
+en tant que : Stagiaire
 
-je voudrais :
+je voudrais : Voir + de Dev
 
-pour pouvoir :
+pour pouvoir : Avoir des compétences équilibrées dans le monde DevOps
