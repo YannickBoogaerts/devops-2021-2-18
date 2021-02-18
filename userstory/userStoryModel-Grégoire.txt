@@ -4,4 +4,4 @@ en tant que : Dev
 
 je voudrais :comprendre comment faire un rebase propre
 
-pour pouvoir : avoir un historique de commit propre lorsque je transmet mon projet a quelqu'un
+pour pouvoir : avoir un historique de commit propre lorsque je transmet mon projet a quelqu'un d'autre
