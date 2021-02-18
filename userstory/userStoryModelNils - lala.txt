@@ -2,6 +2,6 @@ User story
 
 en tant que :Nils	
 
-je voudrais :maitriser git
+je voudrais :comprendre un git facilement
 
 pour pouvoir : être plus polyvalent
