@@ -1,0 +1,7 @@
+User story
+
+en tant que :Nils	
+
+je voudrais :comprendre ce rebase
+
+pour pouvoir : être plus polyvalent
